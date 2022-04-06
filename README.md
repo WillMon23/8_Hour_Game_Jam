@@ -6,7 +6,7 @@ Unzip the file
 Once unzip file click 8_Hour_Game_Jam.exe
 Youll be Right Set to the game
 
-###Whats the goal 
+### Whats the goal 
 The Goal is to Hold Your Friend Until You Each The Blue Goal
 Avoid The Enemies 
 You Can't Shot If You're Holding Your Friend

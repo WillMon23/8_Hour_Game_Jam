@@ -16,7 +16,10 @@ You Can't Shot If You're Holding Your Friend
 
 
 ### How to play
-WASD is the Movment controls for the player 
+W - Up 
+S - Down 
+A - Turn to the Left
+S - Turn to the Right
 
 Right on the Mouse is how you Hold the Player 
 
